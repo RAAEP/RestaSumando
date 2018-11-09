@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Settings,se utiliza el app en never para poder ocultarlo-->
+    <item
+        android:id="@+id/action_clear"
+        android:icon="@drawable/ic_delete_sweep_black_24dp"
+        android:title="Limpiar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="ayuda"
+        app:showAsAction="ifRoom" />
+
+</menu>

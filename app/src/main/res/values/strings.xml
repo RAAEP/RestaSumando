@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resta Sumando</string>
+    <string name="sutraendo">Sustraendo</string>
+    <string name="minuendo">Minuendo</string>
+</resources>
